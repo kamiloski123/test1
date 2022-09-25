@@ -1,0 +1,14 @@
+{
+    "name": "rockstone/src",
+    "autoload": {
+        "psr-4": {
+            "Module\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kamil Sala"
+        }
+    ],
+    "require": {}
+}
